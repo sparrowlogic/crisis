@@ -17,7 +17,7 @@ https://www.cnbc.com/2020/04/22/coronavirus-biblical-famines-could-double-global
 * Volunteers have a richer experience -- authentication may be required here.
 
 ### Accountability concepts:
-* Problem statement: Many NGOs have an ambiguous accountability structure. 
+* Problem statement: With respect to accountability -- Many NGOs have an ambiguous accountability structure and as a potential donor that makes evaluating who to provide charity to. When I donate money to something I want to be sure it's actually helping someone in need rather than filling the personal coffers of NGO executive staff and contributing to a marketing plan. I envision a donation mechanism that's tied to the end-recipient acknowledging that they got something from the volunteering party.
 
 
 With Crisis, Volunteers are held accountable by NeedRequestors *confirming receipt of a Promise To Help when they receive what they requested*. Need Requestors present a the token that supplier can fulfill.
