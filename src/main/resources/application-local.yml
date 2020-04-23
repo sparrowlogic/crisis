@@ -1,0 +1,12 @@
+server:
+  port: 8080
+logging:
+  level:
+    org.springframework.security: trace
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: root
+    url: jdbc:mysql://localhost:33060/com_sparrowlogic_crisis?createDatabaseIfNotExist=true
+    initialization-mode: always
