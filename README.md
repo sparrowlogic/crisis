@@ -1,4 +1,8 @@
 # com.sparrowlogic.crisis
+The Motivation: Global pandemic has the potential to put extreme pressure on already fractured food supply resources in places that are unequipped to comprehend and adapt to dynamically changing needs.
+
+https://www.cnbc.com/2020/04/22/coronavirus-biblical-famines-could-double-global-hunger-un-warns.html
+
 
 ## open source collaboration to help match individual needs up with NGOs who can voluntarily provide relief.
 
